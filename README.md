@@ -12,6 +12,7 @@ To get started with Ratware Executor, follow these simple steps:
 
 
 
+
 ![Ratware Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
